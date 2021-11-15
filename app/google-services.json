@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045868960010",
+    "project_id": "fir-learning-71a7b",
+    "storage_bucket": "fir-learning-71a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045868960010:android:e97c156e32fbf727cec2f3",
+        "android_client_info": {
+          "package_name": "com.example.firejose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045868960010-o223f1n9tn9i3kmkdvfmjkqn7bg05ivb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TPGfaALgAZIhHGmFG4Wie6jbrjJC-4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045868960010-o223f1n9tn9i3kmkdvfmjkqn7bg05ivb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
